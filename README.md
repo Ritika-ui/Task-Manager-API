@@ -7,7 +7,6 @@
 ---
 
 ## ✨ Features
-
 - Create, view, and delete tasks via REST API
 - Reverse proxy using Nginx
 - PostgreSQL database with persistent storage
@@ -18,7 +17,6 @@
 ---
 
 ## 🧱 Tech Stack
-
 | Layer | Technology |
 |---|---|
 | Backend | Flask (Python) |
