@@ -133,7 +133,6 @@ GitHub Push → Build Docker Image → Push to Docker Hub → Deploy → Live
 ---
 
 ## ⚠️ Notes
-
 - Backend communicates with the database using Docker service name `db` (internal DNS)
 - Nginx forwards requests from port `8080` → Flask app on port `5000`
 - PostgreSQL data persists across container restarts via Docker volume
