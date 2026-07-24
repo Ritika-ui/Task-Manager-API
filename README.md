@@ -2,7 +2,7 @@
 
 >> A fully containerized REST API built with Flask, PostgreSQL, and Nginx — featuring Docker Compose, CI/CD pipeline, and persistent database storage.
 
-🌐 **Live Demo:** https://task-manager-api-f8af.onrender.com
+
 
 ---
 
