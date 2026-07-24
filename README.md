@@ -2,8 +2,6 @@
 
 >> A fully containerized REST API built with Flask, PostgreSQL, and Nginx — featuring Docker Compose, CI/CD pipeline, and persistent database storage.
 
-
-
 ---
 
 ## ✨ Features
